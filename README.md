@@ -36,7 +36,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento deste projeto:
 ## 🚀 Como Executar
 O site está disponível online através do GitHub Pages. Para acessá-lo, basta clicar no link abaixo:
 
-🔗 Acesse o Projeto Aqui
+🔗 [Acesse o Projeto Aqui](https://gisele-nuness.github.io/SORVETERIA-CLODO/)
 
 ## 📘 Sobre o Projeto
 Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Sistemas na ETEC de Guaianazes, com o objetivo de aplicar os conceitos de:
